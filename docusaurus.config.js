@@ -45,7 +45,12 @@ module.exports = {
         srcDark: "img/logo_white.svg",
         href: "https://statsig.com",
       },
-      items: [],
+      items: [
+        {
+          type: 'custom-warehouseToggle', 
+          position: "left",
+        },
+      ]
     },
     footer: {
       style: "dark",
