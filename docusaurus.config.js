@@ -46,10 +46,11 @@ module.exports = {
         href: "https://statsig.com",
       },
       items: [
-        {
-          type: 'custom-warehouseToggle', 
-          position: "left",
-        },
+        // TODO @tore - whn toggle
+        // {
+        //   type: 'custom-warehouseToggle', 
+        //   position: "left",
+        // },
       ]
     },
     footer: {
